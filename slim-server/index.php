@@ -81,3 +81,5 @@ $app->GET('/qa[/{name}]', function($request, $response, $args) {
 });
 
 $app->run();
+
+?>
